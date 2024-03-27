@@ -3,7 +3,7 @@ master ps1_color=31 ssh_host=192.168.10.10 gui=true
 node1 ps1_color=32 ssh_host=192.168.10.20 gui=false
 node2 ps1_color=36 ssh_host=192.168.10.30 gui=false
 node3 ps1_color=34 ssh_host=192.168.10.40 gui=false
-minikube ps1_color=35 ssh_host=192.168.10.50 gui=true
+
 
 [minikube]
-minikube
+minikube ps1_color=35 ssh_host=192.168.10.50 gui=true
